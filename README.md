@@ -1,5 +1,7 @@
 # Ring of Servers
 
+## This is just a prototype of an idea
+
 ## 1) As Circular Linked List
 
 - Say you have some Node processes. Maybe you have some data-centers, and each datacenter has a couple of production machines, which can be referenced: `dc1/prod/0`, `dc2/prod/0`, `dc3/prod/0`, `dc1/prod/1`, `dc2/prod/1`, `dc3/prod/1`, etc.
